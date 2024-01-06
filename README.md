@@ -17,7 +17,6 @@ A simple and lightweight TODO list application that allows users to manage their
 ## Usage
 
 ### Add Tasks:
-- Click the "+" button to add a new task.
 - Enter the task title and optional details.
 - Click "Add Task" to save.
 - Mark as Completed:
@@ -25,7 +24,7 @@ A simple and lightweight TODO list application that allows users to manage their
   Click the checkbox next to a task to mark it as completed.
 
 ### Delete Tasks:
-- Click the trash icon next to a task to delete it.
+- Click the cross icon next to a task to delete it.
 
 ### Persistence:
 
