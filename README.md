@@ -13,8 +13,7 @@ A simple and lightweight TODO list application that allows users to manage their
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/chrome-todo-list.git
-   cd chrome-todo-list](https://github.com/IrtizaShahbaz/To-Do-List-App.git
+   git clone https://github.com/IrtizaShahbaz/To-Do-List-App.git
 ## Usage
 
 ### Add Tasks:
