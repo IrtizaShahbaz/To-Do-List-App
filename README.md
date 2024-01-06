@@ -2,15 +2,6 @@
 
 A simple and lightweight TODO list application that allows users to manage their tasks conveniently. The application stores task data in the local storage of Google Chrome, providing persistence across browser sessions.
 
-## Table of Contents
-- [Features](#features)
-- [Getting Started](#getting-started)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Features
 - **Add Tasks:** Create new tasks with a title and optional details.
 - **Mark as Completed:** Check off completed tasks to keep track of your progress.
